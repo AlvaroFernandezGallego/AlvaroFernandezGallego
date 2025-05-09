@@ -55,3 +55,26 @@
   Stay tuned for upcoming projects
 
 </details>
+
+<h2 align="center">My Stats</h2>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td colspan="2">
+        <h3><strong>Top Langs</strong></h3>
+        <p>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroFernandezGallego&layout=donut&theme=tokyonight" alt="Álvaro Fernández Gallego's Top Langs"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <h3><strong>Stats</strong></h3>
+        <p>
+          <img src="https://github-readme-stats.vercel.app/api?username=AlvaroFernandezGallego&show_icons=true&theme=tokyonight&rank_icon=github" alt="Álvaro Fernández Gallego's Stats"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
