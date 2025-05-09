@@ -14,11 +14,11 @@
 
   ##### Back-end
   
-  ![Back-end Technologies](https://go-skill-icons.vercel.app/api/icons?i=cs,java,php,python,composer,dotnet,expressjs,flask,jwt,laravel,nestjs,nodejs,spring,symfony&titles=true)
+  ![Back-end Technologies](https://go-skill-icons.vercel.app/api/icons?i=cs,java,php,python,composer,dotnet,expressjs,flask,jwt,laravel,nestjs,nodejs,npm,spring,symfony,twig&titles=true)
 
   ##### Front-end
   
-  ![Front-end Technologies](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,sass,blazor,bootstrap,canva,figma,jquery,react,tailwindcss,vite,webpack,wordpress&titles=true)
+  ![Front-end Technologies](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,sass,blazor,bootstrap,canva,emotion,figma,jquery,react,styledcomponents,tailwindcss,vite,webpack,wordpress&titles=true)
 
   ##### Database Management Systems
   
