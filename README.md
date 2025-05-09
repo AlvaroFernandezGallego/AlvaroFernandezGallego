@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./banner.png" alt="Álvaro Fernández Gallego's Banner">
+</p>
+
+<br>
+
 <h2 align="center">My Skills</h2>
 
 <details>
