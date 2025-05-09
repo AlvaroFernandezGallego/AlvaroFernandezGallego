@@ -34,7 +34,7 @@
 
   ##### APIs
   
-  ![Version Control](https://go-skill-icons.vercel.app/api/icons?i=api,postman,swagger&titles=true)
+  ![APIs](https://go-skill-icons.vercel.app/api/icons?i=api,postman,swagger&titles=true)
 
   ##### OS and Distributions
   
@@ -96,3 +96,15 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroFernandezGallego&theme=tokyo-night" alt="Álvaro Fernández Gallego's GitHub Activity Graph"/>
 </p>
+
+<h2 align="center">My Contacts</h2>
+
+<div align="center">
+  <a href="mailto:varogallego1998@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="My Gmail">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/alvarofernandezgallego">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="My LinkedIn">
+  </a>
+</div>
