@@ -84,3 +84,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlvaroFernandezGallego&no-bg=true&margin-w=15&theme=tokyonight" alt="Álvaro Fernández Gallego's GitHub Profile Trophies">
 </p>
+
+<h2 align="center">My Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroFernandezGallego&theme=tokyo-night" alt="Álvaro Fernández Gallego's GitHub Activity Graph"/>
+</p>
