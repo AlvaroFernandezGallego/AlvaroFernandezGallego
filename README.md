@@ -20,6 +20,10 @@
   
   ![Front-end Technologies](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,sass,blazor,bootstrap,canva,emotion,figma,jquery,react,styledcomponents,tailwindcss,vite,webpack,wordpress&titles=true)
 
+  ##### APIs
+  
+  ![APIs](https://go-skill-icons.vercel.app/api/icons?i=api,json,postman,swagger&titles=true)
+
   ##### Database Management Systems
   
   ![Database Management Systems](https://go-skill-icons.vercel.app/api/icons?i=mariadb,mongodb,mysql,postgresql&titles=true)
@@ -31,10 +35,6 @@
   ##### Servers
   
   ![Servers](https://go-skill-icons.vercel.app/api/icons?i=apache,tomcat,nginx&titles=true)
-
-  ##### APIs
-  
-  ![APIs](https://go-skill-icons.vercel.app/api/icons?i=api,postman,swagger&titles=true)
 
   ##### OS and Distributions
   
@@ -55,6 +55,10 @@
   ##### Deployment Platforms
   
   ![Deployment Platforms](https://go-skill-icons.vercel.app/api/icons?i=heroku,netlify&titles=true)
+
+  ##### Other
+  
+  ![Other](https://go-skill-icons.vercel.app/api/icons?i=libreoffice&titles=true)
 
   #### Top Repositories
   
