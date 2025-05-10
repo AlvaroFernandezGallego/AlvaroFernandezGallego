@@ -18,7 +18,7 @@
 
   ##### Front-end
   
-  ![Front-end Technologies](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,sass,blazor,bootstrap,canva,emotion,figma,jquery,react,styledcomponents,tailwindcss,vite,webpack,wordpress&titles=true)
+  ![Front-end Technologies](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,sass,blazor,bootstrap,canva,emotion,figma,jquery,react,styledcomponents,tailwindcss,typescript,vite,webpack,wordpress&titles=true)
 
   ##### APIs
   
