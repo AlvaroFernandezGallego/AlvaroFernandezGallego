@@ -4,6 +4,10 @@
 
 <br>
 
+<p align="center"><q>Any sufficiently advanced technology is indistinguishable from magic.</q> - Arthur C. Clarke</p>
+
+<br>
+
 <h2 align="center">My Skills</h2>
 
 <details>
