@@ -56,9 +56,13 @@
   
   ![Container Platforms](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes&titles=true)
 
-  ##### Other
+  ##### Bot Development
   
-  ![Other](https://go-skill-icons.vercel.app/api/icons?i=libreoffice&titles=true)
+  ![Bot Development](https://go-skill-icons.vercel.app/api/icons?i=discordbots&titles=true)
+
+  ##### Productivity Tools
+  
+  ![Productivity Tools](https://go-skill-icons.vercel.app/api/icons?i=libreoffice&titles=true)
 
   #### Top Repositories
   
