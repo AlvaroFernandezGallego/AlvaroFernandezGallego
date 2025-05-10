@@ -14,7 +14,7 @@
 
   ##### Back-end
   
-  ![Back-end Technologies](https://go-skill-icons.vercel.app/api/icons?i=cs,java,php,python,composer,dotnet,expressjs,flask,jwt,laravel,nestjs,nodejs,npm,spring,symfony,twig&titles=true)
+  ![Back-end Technologies](https://go-skill-icons.vercel.app/api/icons?i=cs,java,php,python,composer,dotnet,django,expressjs,flask,jwt,laravel,nestjs,nodejs,npm,spring,symfony,twig&titles=true)
 
   ##### Front-end
   
