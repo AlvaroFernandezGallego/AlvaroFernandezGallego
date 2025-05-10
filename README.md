@@ -110,6 +110,10 @@
 <h2 align="center">My Contacts</h2>
 
 <div align="center">
+  <a href="https://github.com/AlvaroFernandezGallego">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="My GitHub">
+  </a>
+  
   <a href="mailto:varogallego1998@gmail.com">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="My Gmail">
   </a>
