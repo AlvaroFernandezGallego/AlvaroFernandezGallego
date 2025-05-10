@@ -39,6 +39,10 @@
   ##### OS and Distributions
   
   ![OS and Distributions](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,windows&titles=true)
+  
+  ##### Deployment Platforms
+  
+  ![Deployment Platforms](https://go-skill-icons.vercel.app/api/icons?i=githubpages,heroku,netlify&titles=true)
 
   ##### Version Control
   
@@ -51,10 +55,6 @@
   ##### Container Platforms
   
   ![Container Platforms](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes&titles=true)
-
-  ##### Deployment Platforms
-  
-  ![Deployment Platforms](https://go-skill-icons.vercel.app/api/icons?i=heroku,netlify&titles=true)
 
   ##### Other
   
