@@ -130,3 +130,9 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow" alt="My Stack Overflow ">
   </a>
 </div>
+
+<br>
+
+<div align="center">
+  <p>If you have any questions, feel free to ask! I'm happy to help and will respond as quickly as I can. Just click <a href="https://github.com/AlvaroFernandezGallego/AlvaroFernandezGallego/issues" target="_blank">here</a></p>
+</div>
