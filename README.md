@@ -125,4 +125,8 @@
   <a href="https://www.linkedin.com/in/alvarofernandezgallego">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="My LinkedIn">
   </a>
+
+  <a href="https://stackoverflow.com/users/30500236/alvarofernandezgallego">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow" alt="My Stack Overflow ">
+  </a>
 </div>
