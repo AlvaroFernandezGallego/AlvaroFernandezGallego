@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Álvaro Fernández Gallego's Banner">
+  <img src="./banner.png" alt="My Banner">
 </p>
 
 <br>
@@ -74,7 +74,7 @@
       <td colspan="2">
         <h3><strong>Top Langs</strong></h3>
         <p>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroFernandezGallego&layout=donut&theme=tokyonight" alt="Álvaro Fernández Gallego's Top Langs"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroFernandezGallego&layout=donut&theme=tokyonight" alt="My Top Langs"/>
         </p>
       </td>
     </tr>
@@ -82,7 +82,7 @@
       <td colspan="2">
         <h3><strong>Stats</strong></h3>
         <p>
-          <img src="https://github-readme-stats.vercel.app/api?username=AlvaroFernandezGallego&show_icons=true&theme=tokyonight&rank_icon=github" alt="Álvaro Fernández Gallego's Stats"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=AlvaroFernandezGallego&show_icons=true&theme=tokyonight&rank_icon=github" alt="My Stats"/>
         </p>
       </td>
     </tr>
@@ -92,13 +92,13 @@
 <h2 align="center">My Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlvaroFernandezGallego&no-bg=true&margin-w=15&theme=tokyonight" alt="Álvaro Fernández Gallego's GitHub Profile Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlvaroFernandezGallego&no-bg=true&margin-w=15&theme=tokyonight" alt="My Profile Trophies">
 </p>
 
 <h2 align="center">My Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroFernandezGallego&theme=tokyo-night" alt="Álvaro Fernández Gallego's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroFernandezGallego&theme=tokyo-night" alt="My Activity Graph"/>
 </p>
 
 <h2 align="center">My Contacts</h2>
