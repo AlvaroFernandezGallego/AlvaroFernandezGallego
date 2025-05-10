@@ -79,10 +79,16 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td>
         <h3><strong>Stats</strong></h3>
         <p>
           <img src="https://github-readme-stats.vercel.app/api?username=AlvaroFernandezGallego&show_icons=true&theme=tokyonight&rank_icon=github" alt="My Stats"/>
+        </p>
+      </td>
+      <td>
+        <h3><strong>Streak</strong></h3>
+        <p>
+          <img src="https://streak-stats.demolab.com/?user=AlvaroFernandezGallego&theme=tokyonight" alt="My Streak"/>
         </p>
       </td>
     </tr>
