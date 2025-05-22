@@ -31,6 +31,9 @@
   
   ##### APIs
   ![APIs](https://go-skill-icons.vercel.app/api/icons?i=api,json,postman,swagger&titles=true)
+
+  ##### Deployment Platforms
+  ![Deployment Platforms](https://go-skill-icons.vercel.app/api/icons?i=githubpages,heroku,netlify,render&titles=true)
   
   ##### Database Management Systems
   ![Database Management Systems](https://go-skill-icons.vercel.app/api/icons?i=mariadb,mongodb,mysql,postgresql&titles=true)
@@ -43,9 +46,9 @@
   
   ##### OS and Distributions
   ![OS and Distributions](https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,windows&titles=true)
-  
-  ##### Deployment Platforms
-  ![Deployment Platforms](https://go-skill-icons.vercel.app/api/icons?i=githubpages,heroku,netlify&titles=true)
+
+  ##### Development Browsers
+  ![Dev Browsers](https://go-skill-icons.vercel.app/api/icons?i=chrome,edge,firefox&titles=true)
   
   ##### Version Control
   ![Version Control](https://go-skill-icons.vercel.app/api/icons?i=git,github,&titles=true)
@@ -67,11 +70,15 @@
 </details>
 
 <details>
-  <summary><h3><strong>Other</strong></h3></summary>
+  <summary><h3><strong>Languages</strong></h3></summary>
   
-  #### Spoken Languages
+  #### Native Language
   <div>
-    <img src="assets/icons/es.svg" class="icon" alt="Spanish" title="Spanish" height="50" width="50">&nbsp;
+    <img src="assets/icons/es.svg" class="icon" alt="Spanish" title="Spanish" height="50" width="50">
+  </div>
+  
+  #### Other Languages
+  <div>
     <img src="assets/icons/uk.svg" class="icon" alt="English" title="English" height="50" width="50">
   </div>
 </details>
