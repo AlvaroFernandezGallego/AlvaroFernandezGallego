@@ -27,7 +27,7 @@
   ![Back-end](https://go-skill-icons.vercel.app/api/icons?i=cs,java,php,python,composer,dotnet,django,expressjs,flask,jwt,laravel,nestjs,nodejs,npm,spring,symfony,twig&titles=true)
   
   ##### Front-end
-  ![Front-end](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,sass,blazor,bootstrap,canva,emotion,figma,jquery,react,styledcomponents,svg,tailwindcss,typescript,vite,webpack,wordpress&titles=true)
+  ![Front-end](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,sass,blazor,bootstrap,canva,emotion,figma,jquery,react,styledcomponents,svg,tailwindcss,typescript,vite,webpack,wordpress,yarn&titles=true)
   
   ##### APIs
   ![APIs](https://go-skill-icons.vercel.app/api/icons?i=api,json,postman,swagger,yaml&titles=true)
