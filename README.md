@@ -33,7 +33,7 @@
   ![APIs](https://go-skill-icons.vercel.app/api/icons?i=api,json,postman,swagger,yaml&titles=true)
 
   ##### Deployment Platforms
-  ![Deployment Platforms](https://go-skill-icons.vercel.app/api/icons?i=githubpages,heroku,netlify,render&titles=true)
+  ![Deployment Platforms](https://go-skill-icons.vercel.app/api/icons?i=azuredevops,githubpages,heroku,netlify,render&titles=true)
   
   ##### Database Management Systems
   ![Database Management Systems](https://go-skill-icons.vercel.app/api/icons?i=mariadb,mongodb,mysql,postgresql&titles=true)
