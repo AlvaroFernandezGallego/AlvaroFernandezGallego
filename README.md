@@ -30,7 +30,7 @@
   ![Front-end](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,sass,blazor,bootstrap,canva,emotion,figma,jquery,react,styledcomponents,tailwindcss,typescript,vite,webpack,wordpress&titles=true)
   
   ##### APIs
-  ![APIs](https://go-skill-icons.vercel.app/api/icons?i=api,json,postman,swagger&titles=true)
+  ![APIs](https://go-skill-icons.vercel.app/api/icons?i=api,json,postman,swagger,yaml&titles=true)
 
   ##### Deployment Platforms
   ![Deployment Platforms](https://go-skill-icons.vercel.app/api/icons?i=githubpages,heroku,netlify,render&titles=true)
