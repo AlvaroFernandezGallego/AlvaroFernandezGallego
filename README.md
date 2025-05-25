@@ -119,3 +119,9 @@
     </tr>
   </table>
 </div>
+
+<h2 align="center">My Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlvaroFernandezGallego&no-bg=false&margin-w=15&theme=nord" alt="Profile Trophies">
+</p>
