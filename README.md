@@ -82,3 +82,40 @@
     <img src="assets/icons/uk.svg" class="icon" alt="English" title="English" height="50" width="50">
   </div>
 </details>
+
+<h2 align="center">My Stats</h2>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td colspan="2">
+        <h3><strong>Top Langs</strong></h3>
+        <p>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroFernandezGallego&layout=donut&theme=nord" alt="Top Langs"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3><strong>General Stats</strong></h3>
+        <p>
+          <img src="https://github-readme-stats.vercel.app/api?username=AlvaroFernandezGallego&show_icons=true&theme=nord&rank_icon=github" alt="General Stats"/>
+        </p>
+      </td>
+      <td>
+        <h3><strong>Streak Stats</strong></h3>
+        <p>
+          <img src="https://streak-stats.demolab.com/?user=AlvaroFernandezGallego&theme=nord" alt="Streak Stats"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <h3><strong>Contributor Stats</strong></h3>
+        <p>
+          <img src="https://github-contributor-stats.vercel.app/api?username=AlvaroFernandezGallego&combine_all_yearly_contributions=true&hide=B,B+&theme=nord&hide_contributor_rank=false" alt="Contributor Stats"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
