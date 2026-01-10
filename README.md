@@ -8,7 +8,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?quote=Any%20sufficiently%20advanced%20technology%20is%20indistinguishable%20from%20magic.&author=Arthur%20C.%20Clarke&theme=nord&type=horizontal&border=true" alt="Quote"/>
 </p>
 
-
 <h2 align="center">About Me</h2>
 
 <div align="center">
@@ -125,3 +124,31 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlvaroFernandezGallego&no-bg=false&margin-w=15&theme=nord" alt="Profile Trophies">
 </p>
+
+<h2 align="center">My Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroFernandezGallego&theme=nord" alt="Activity Graph"/>
+</p>
+
+<h2 align="center">My Contacts</h2>
+
+<div align="center">
+  <a href="https://github.com/AlvaroFernandezGallego">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="GitHub">
+  </a>
+  
+  <a href="mailto:varogallego1998@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/alvarofernandezgallego">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <p>If you have any questions, feel free to ask! I'm happy to help and will respond as quickly as I can. Just click <a href="https://github.com/AlvaroFernandezGallego/AlvaroFernandezGallego/issues" target="_blank">here</a></p>
+</div>
