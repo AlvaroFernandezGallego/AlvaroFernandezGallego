@@ -90,7 +90,7 @@
       <td colspan="2">
         <h3><strong>Top Langs</strong></h3>
         <p>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroFernandezGallego&layout=donut&theme=nord" alt="Top Langs"/>
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AlvaroFernandezGallego&layout=donut&theme=nord" alt="Top Langs"/>
         </p>
       </td>
     </tr>
@@ -98,21 +98,13 @@
       <td>
         <h3><strong>General Stats</strong></h3>
         <p>
-          <img src="https://github-readme-stats.vercel.app/api?username=AlvaroFernandezGallego&show_icons=true&theme=nord&rank_icon=github" alt="General Stats"/>
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=AlvaroFernandezGallego&show_icons=true&theme=nord&rank_icon=github" alt="General Stats"/>
         </p>
       </td>
       <td>
         <h3><strong>Streak Stats</strong></h3>
         <p>
-          <img src="https://streak-stats.demolab.com/?user=AlvaroFernandezGallego&theme=nord" alt="Streak Stats"/>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <h3><strong>Contributor Stats</strong></h3>
-        <p>
-          <img src="https://github-contributor-stats.vercel.app/api?username=AlvaroFernandezGallego&combine_all_yearly_contributions=true&hide=B,B+&theme=nord&hide_contributor_rank=false" alt="Contributor Stats"/>
+          <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=AlvaroFernandezGallego&theme=nord" alt="Streak Stats"/>
         </p>
       </td>
     </tr>
