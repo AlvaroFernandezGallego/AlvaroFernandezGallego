@@ -57,6 +57,9 @@
   
   ##### Container Platforms
   ![Container Platforms](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes&titles=true)
+
+  ##### Security
+  ![Security](https://go-skill-icons.vercel.app/api/icons?i=authenticator&titles=true)
   
   ##### Bot Development
   ![Bot Development](https://go-skill-icons.vercel.app/api/icons?i=discordbots&titles=true)
