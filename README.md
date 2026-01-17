@@ -12,7 +12,7 @@
 
 <div align="center">
   <p><strong>Full Stack Web Developer</strong> based in <strong>Spain</strong> 🇪🇸</p> 
-  <p>Enthusiastic about <strong>Web Development</strong>, <strong>Cybersecurity</strong> and <strong>AI</strong></p>
+  <p>Enthusiastic about <strong>Web Development</strong>, <strong>Game Development</strong>, <strong>Cybersecurity</strong> and <strong>AI</strong></p>
 </div>
 
 <h2 align="center">My Skills</h2>
