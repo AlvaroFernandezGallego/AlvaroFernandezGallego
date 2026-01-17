@@ -11,7 +11,7 @@
 <h2 align="center">About Me</h2>
 
 <div align="center">
-  <p><strong>Full Stack Web Developer</strong> based in <strong>Spain</strong> 🇪🇸</p> 
+  <p><strong>Higher Technician in Web Application Development</strong> and <strong>Full Stack Web Developer</strong> based in <strong>Spain</strong> 🇪🇸</p> 
   <p>Enthusiastic about <strong>Web Development</strong>, <strong>Game Development</strong>, <strong>Cybersecurity</strong> and <strong>AI</strong></p>
 </div>
 
