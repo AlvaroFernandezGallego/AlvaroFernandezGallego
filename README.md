@@ -69,9 +69,6 @@
 
   ##### Game Development
   ![Game Development](https://go-skill-icons.vercel.app/api/icons?i=unity&titles=true)
-  
-  #### Top Repositories
-  Stay tuned for upcoming projects
 </details>
 
 <details>
