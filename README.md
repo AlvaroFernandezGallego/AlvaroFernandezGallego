@@ -91,7 +91,7 @@
   <p><strong>Stay tuned for upcoming projects</strong></p>
 </div>
 
-<h2 align="center">My Stats</h2>
+<h2 align="center">My GitHub Stats</h2>
 
 <div align="center">
   <table width="100%">
@@ -120,7 +120,7 @@
   </table>
 </div>
 
-<h2 align="center">My Activity Graph</h2>
+<h2 align="center">My GitHub Activity Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlvaroFernandezGallego&theme=nord" alt="Activity Graph"/>
