@@ -85,7 +85,7 @@
   </div>
 </details>
 
-<h2 align="center">My Best Repositories</h2>
+<h2 align="center">My Projects</h2>
 
 <div align="center">
   <p><strong>Stay tuned for upcoming projects</strong></p>
