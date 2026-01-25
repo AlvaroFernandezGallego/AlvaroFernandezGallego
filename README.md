@@ -132,6 +132,10 @@
   <a href="https://github.com/AlvaroFernandezGallego">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="GitHub">
   </a>
+
+  <a href="https://stackoverflow.com/users/32260264/alvarofernandezgallego">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=stackoverflow" alt="Stack Overflow">
+  </a>
   
   <a href="mailto:varogallego1998@gmail.com">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="Gmail">
