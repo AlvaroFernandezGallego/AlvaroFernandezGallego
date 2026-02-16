@@ -79,12 +79,6 @@
   </div>
 </details>
 
-<h2 align="center">My Projects</h2>
-
-<div align="center">
-    <p><strong>Stay tuned for upcoming projects</strong></p>
-</div>
-
 <h2 align="center">My GitHub Stats</h2>
 
 <div align="center">
